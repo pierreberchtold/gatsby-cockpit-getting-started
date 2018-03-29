@@ -9,7 +9,7 @@ module.exports = {
       options: {
         cockpitConfig: {
           baseURL: 'http://cockpit.portfolio.local', // the url to you cockpit installation
-          accessToken: '6253b3ebb626ba3900d124422e6916', // you cockpit API key
+          accessToken: '0ac313030488075f594a89a02b52bc', // you cockpit API key
         },
       },
     },

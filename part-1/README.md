@@ -12,6 +12,8 @@ Create the website and integrate data from Cockpit.
 
 ## Website
 
+Go inside the website folder.
+
 ### Installation
 
 ```

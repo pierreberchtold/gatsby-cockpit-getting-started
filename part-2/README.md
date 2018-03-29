@@ -11,6 +11,8 @@ Programmaticaly create project pages and use Gatsby image features.
 
 ## Website
 
+Go inside the website folder.
+
 ### Installation
 
 ```
